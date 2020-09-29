@@ -1,6 +1,6 @@
 # Simple todo list app using Django
 
-<img src="./img/screenshot.png" width="300px" />
+<img src="./img/screenshot.PNG" width="300px" />
 
 ## Features
 - [x] Create
